@@ -3651,7 +3651,7 @@ td:last-child {
 .intro-pic-primary img {
     margin        : 0;
     vertical-align: bottom;
-    filter: sepia();
+
     aspect-ratio  : 1200/1650;
 }
 
@@ -3673,7 +3673,7 @@ td:last-child {
 .intro-block-content__pic img {
     margin        : 0;
     vertical-align: bottom;
-    filter: grayscale();
+
     aspect-ratio  : 1050/600;
 }
 
@@ -4041,7 +4041,7 @@ td:last-child {
     -o-object-position: center;
     object-position   : center;
     aspect-ratio      : 2000/2000;
-    filter: sepia(80%);
+   
 }
 
 
